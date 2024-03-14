@@ -1,0 +1,6 @@
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TamGiac\bin\Debug\TamGiac.exe.config
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TamGiac\bin\Debug\TamGiac.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TamGiac\bin\Debug\TamGiac.pdb
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TamGiac\obj\Debug\TamGiac.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TamGiac\obj\Debug\TamGiac.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TamGiac\obj\Debug\TamGiac.pdb

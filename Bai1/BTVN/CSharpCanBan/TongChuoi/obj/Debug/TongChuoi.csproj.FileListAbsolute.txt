@@ -1,0 +1,7 @@
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TongChuoi\bin\Debug\TongChuoi.exe.config
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TongChuoi\bin\Debug\TongChuoi.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TongChuoi\bin\Debug\TongChuoi.pdb
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.csproj.AssemblyReference.cache
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\TongChuoi\obj\Debug\TongChuoi.pdb

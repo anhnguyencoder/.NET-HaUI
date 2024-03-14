@@ -1,0 +1,7 @@
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\LoiChao\bin\Debug\LoiChao.exe.config
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\LoiChao\bin\Debug\LoiChao.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\LoiChao\bin\Debug\LoiChao.pdb
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\LoiChao\obj\Debug\LoiChao.csproj.AssemblyReference.cache
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\LoiChao\obj\Debug\LoiChao.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\LoiChao\obj\Debug\LoiChao.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\LoiChao\obj\Debug\LoiChao.pdb

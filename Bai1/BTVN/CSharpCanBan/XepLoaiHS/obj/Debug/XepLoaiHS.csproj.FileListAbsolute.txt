@@ -1,0 +1,7 @@
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\XepLoaiHS\obj\Debug\XepLoaiHS.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\XepLoaiHS\bin\Debug\XepLoaiHS.exe.config
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\XepLoaiHS\bin\Debug\XepLoaiHS.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\XepLoaiHS\bin\Debug\XepLoaiHS.pdb
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\XepLoaiHS\obj\Debug\XepLoaiHS.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\XepLoaiHS\obj\Debug\XepLoaiHS.pdb
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\XepLoaiHS\obj\Debug\XepLoaiHS.csproj.AssemblyReference.cache

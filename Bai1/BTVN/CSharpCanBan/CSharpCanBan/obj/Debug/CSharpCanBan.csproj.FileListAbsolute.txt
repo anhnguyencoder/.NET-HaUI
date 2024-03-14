@@ -1,0 +1,6 @@
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\CSharpCanBan\bin\Debug\CSharpCanBan.exe.config
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\CSharpCanBan\bin\Debug\CSharpCanBan.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\CSharpCanBan\bin\Debug\CSharpCanBan.pdb
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\CSharpCanBan\obj\Debug\CSharpCanBan.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\CSharpCanBan\obj\Debug\CSharpCanBan.exe
+D:\CODE\C#\.NET-HaUI\CSharpCanBan\CSharpCanBan\obj\Debug\CSharpCanBan.pdb
