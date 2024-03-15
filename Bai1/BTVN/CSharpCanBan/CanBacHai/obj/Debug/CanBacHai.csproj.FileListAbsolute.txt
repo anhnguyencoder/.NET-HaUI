@@ -1,0 +1,7 @@
+D:\CODE\C#\.NET-HaUI\Bai1\BTVN\CSharpCanBan\CanBacHai\bin\Debug\CanBacHai.exe.config
+D:\CODE\C#\.NET-HaUI\Bai1\BTVN\CSharpCanBan\CanBacHai\bin\Debug\CanBacHai.exe
+D:\CODE\C#\.NET-HaUI\Bai1\BTVN\CSharpCanBan\CanBacHai\bin\Debug\CanBacHai.pdb
+D:\CODE\C#\.NET-HaUI\Bai1\BTVN\CSharpCanBan\CanBacHai\obj\Debug\CanBacHai.csproj.AssemblyReference.cache
+D:\CODE\C#\.NET-HaUI\Bai1\BTVN\CSharpCanBan\CanBacHai\obj\Debug\CanBacHai.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\Bai1\BTVN\CSharpCanBan\CanBacHai\obj\Debug\CanBacHai.exe
+D:\CODE\C#\.NET-HaUI\Bai1\BTVN\CSharpCanBan\CanBacHai\obj\Debug\CanBacHai.pdb

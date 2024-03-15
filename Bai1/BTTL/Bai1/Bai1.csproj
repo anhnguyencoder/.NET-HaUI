@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{73669D4A-813E-40EF-BD1F-BFAF8A89B0EE}</ProjectGuid>
+    <ProjectGuid>{30153CD4-D02E-4464-BBCC-27823AD0E62F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CanBacHai</RootNamespace>
-    <AssemblyName>CanBacHai</AssemblyName>
+    <RootNamespace>Bai1</RootNamespace>
+    <AssemblyName>Bai1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

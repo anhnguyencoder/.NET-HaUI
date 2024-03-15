@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{73669D4A-813E-40EF-BD1F-BFAF8A89B0EE}</ProjectGuid>
+    <ProjectGuid>{BBBF1FF1-3F49-4456-A930-0AC64E9AEE68}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CanBacHai</RootNamespace>
-    <AssemblyName>CanBacHai</AssemblyName>
+    <RootNamespace>B3</RootNamespace>
+    <AssemblyName>B3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="caub.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

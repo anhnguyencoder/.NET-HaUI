@@ -1,0 +1,6 @@
+D:\CODE\C#\.NET-HaUI\Bai1\BTTH\btth\bin\Debug\btth.exe.config
+D:\CODE\C#\.NET-HaUI\Bai1\BTTH\btth\bin\Debug\btth.exe
+D:\CODE\C#\.NET-HaUI\Bai1\BTTH\btth\bin\Debug\btth.pdb
+D:\CODE\C#\.NET-HaUI\Bai1\BTTH\btth\obj\Debug\btth.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\Bai1\BTTH\btth\obj\Debug\btth.exe
+D:\CODE\C#\.NET-HaUI\Bai1\BTTH\btth\obj\Debug\btth.pdb

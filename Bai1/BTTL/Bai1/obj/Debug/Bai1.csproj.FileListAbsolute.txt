@@ -1,0 +1,7 @@
+D:\CODE\C#\.NET-HaUI\Bai1\BTTL\Bai1\bin\Debug\Bai1.exe.config
+D:\CODE\C#\.NET-HaUI\Bai1\BTTL\Bai1\bin\Debug\Bai1.exe
+D:\CODE\C#\.NET-HaUI\Bai1\BTTL\Bai1\bin\Debug\Bai1.pdb
+D:\CODE\C#\.NET-HaUI\Bai1\BTTL\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\CODE\C#\.NET-HaUI\Bai1\BTTL\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\Bai1\BTTL\Bai1\obj\Debug\Bai1.exe
+D:\CODE\C#\.NET-HaUI\Bai1\BTTL\Bai1\obj\Debug\Bai1.pdb
