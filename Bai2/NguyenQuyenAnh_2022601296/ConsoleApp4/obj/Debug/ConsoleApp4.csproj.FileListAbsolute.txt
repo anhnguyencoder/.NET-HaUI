@@ -1,0 +1,7 @@
+D:\CODE\C#\.NET-HaUI\Bai2\NguyenQuyenAnh_2022601296\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\CODE\C#\.NET-HaUI\Bai2\NguyenQuyenAnh_2022601296\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\CODE\C#\.NET-HaUI\Bai2\NguyenQuyenAnh_2022601296\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\CODE\C#\.NET-HaUI\Bai2\NguyenQuyenAnh_2022601296\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\CODE\C#\.NET-HaUI\Bai2\NguyenQuyenAnh_2022601296\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\CODE\C#\.NET-HaUI\Bai2\NguyenQuyenAnh_2022601296\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\CODE\C#\.NET-HaUI\Bai2\NguyenQuyenAnh_2022601296\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

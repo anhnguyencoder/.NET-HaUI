@@ -1,0 +1,7 @@
+C:\Users\anhnguyencoder\Downloads\GuiSV\NguyenQuyenAnh_2022601296\B1\bin\Debug\B1.exe.config
+C:\Users\anhnguyencoder\Downloads\GuiSV\NguyenQuyenAnh_2022601296\B1\bin\Debug\B1.exe
+C:\Users\anhnguyencoder\Downloads\GuiSV\NguyenQuyenAnh_2022601296\B1\bin\Debug\B1.pdb
+C:\Users\anhnguyencoder\Downloads\GuiSV\NguyenQuyenAnh_2022601296\B1\obj\Debug\B1.csproj.AssemblyReference.cache
+C:\Users\anhnguyencoder\Downloads\GuiSV\NguyenQuyenAnh_2022601296\B1\obj\Debug\B1.csproj.CoreCompileInputs.cache
+C:\Users\anhnguyencoder\Downloads\GuiSV\NguyenQuyenAnh_2022601296\B1\obj\Debug\B1.exe
+C:\Users\anhnguyencoder\Downloads\GuiSV\NguyenQuyenAnh_2022601296\B1\obj\Debug\B1.pdb

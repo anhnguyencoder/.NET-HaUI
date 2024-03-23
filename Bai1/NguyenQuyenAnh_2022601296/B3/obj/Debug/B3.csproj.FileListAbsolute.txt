@@ -1,0 +1,7 @@
+C:\Users\anhnguyencoder\Downloads\GuiSV\GuiSV\B3\bin\Debug\B3.exe.config
+C:\Users\anhnguyencoder\Downloads\GuiSV\GuiSV\B3\bin\Debug\B3.exe
+C:\Users\anhnguyencoder\Downloads\GuiSV\GuiSV\B3\bin\Debug\B3.pdb
+C:\Users\anhnguyencoder\Downloads\GuiSV\GuiSV\B3\obj\Debug\B3.csproj.AssemblyReference.cache
+C:\Users\anhnguyencoder\Downloads\GuiSV\GuiSV\B3\obj\Debug\B3.csproj.CoreCompileInputs.cache
+C:\Users\anhnguyencoder\Downloads\GuiSV\GuiSV\B3\obj\Debug\B3.exe
+C:\Users\anhnguyencoder\Downloads\GuiSV\GuiSV\B3\obj\Debug\B3.pdb
